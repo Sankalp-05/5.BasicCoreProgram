@@ -25,6 +25,10 @@ namespace ConsoleApp1
 
             //Prime Factorization
             PrimeFactorization.PrimeFactor();
+
+            //to Compute Quotient and Remainder
+            QuotientAndRemainder div = new QuotientAndRemainder();
+            div.Divide(315, 3);
         }
     }
 }
