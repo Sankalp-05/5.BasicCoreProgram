@@ -17,6 +17,11 @@ namespace ConsoleApp1
             //Power of 2
             PowerOf2 pow = new PowerOf2();
             pow.CheckPower(5);
+
+            //Harmonic Number
+            HarmonicNum har = new HarmonicNum();
+            har.HarmonicNumber(5);
+
         }
     }
 }
