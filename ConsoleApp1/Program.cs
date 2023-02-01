@@ -36,6 +36,9 @@ namespace ConsoleApp1
             //Check Whether a Number is Even or Odd
             EvenOdd.CheckOddEven();
 
+            //Whether alphabet is vowel or Consonant
+            CheckAlphabet.CheckVowel();
+
         }
     }
 }
