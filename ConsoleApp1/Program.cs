@@ -7,10 +7,16 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Basic Core Program ");
-
             //Flip Coin 
             FlipCoin flipcoin = new FlipCoin();
             flipcoin.PercentageFlips(10);
+
+            //Leap Year
+            CheckLeapYear.LeapYear();
+
+            //Power of 2
+            PowerOf2 pow = new PowerOf2();
+            pow.CheckPower(5);
         }
     }
 }
