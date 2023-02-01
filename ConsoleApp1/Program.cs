@@ -29,6 +29,9 @@ namespace ConsoleApp1
             //to Compute Quotient and Remainder
             QuotientAndRemainder div = new QuotientAndRemainder();
             div.Divide(315, 3);
+
+            // Swap Two Numbers
+            SwapNumber.SwapNum();
         }
     }
 }
