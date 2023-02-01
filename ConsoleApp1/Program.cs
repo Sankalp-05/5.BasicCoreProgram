@@ -22,6 +22,9 @@ namespace ConsoleApp1
             HarmonicNum har = new HarmonicNum();
             har.HarmonicNumber(5);
 
+
+            //Prime Factorization
+            PrimeFactorization.PrimeFactor();
         }
     }
 }
