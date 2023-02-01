@@ -32,6 +32,10 @@ namespace ConsoleApp1
 
             // Swap Two Numbers
             SwapNumber.SwapNum();
+
+            //Check Whether a Number is Even or Odd
+            EvenOdd.CheckOddEven();
+
         }
     }
 }
