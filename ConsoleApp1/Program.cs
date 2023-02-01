@@ -39,6 +39,10 @@ namespace ConsoleApp1
             //Whether alphabet is vowel or Consonant
             CheckAlphabet.CheckVowel();
 
+            //Find the Largest Among Three Numbers
+            LargestNumber.Largest();
+
+
         }
     }
 }
